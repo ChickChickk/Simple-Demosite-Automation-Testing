@@ -95,7 +95,8 @@ while not script_done:
     upload_image = wait.until(
     EC.presence_of_element_located((By.ID, "uploadPicture"))
     )
-    upload_image.send_keys("/Users/celia.ho/selenium-02/demo.png")
+    #Provide image directory
+    upload_image.send_keys("/aaa/bbb/ccc/ddd/demo.png")
 
     #Address
     address = chrome_browser.find_element(By.ID, "currentAddress")
