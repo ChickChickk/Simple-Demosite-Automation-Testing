@@ -27,7 +27,7 @@ It fills out the form, uploads a file, submits it, and verifies successful submi
 ## Test Target
 DemoQA Automation Practice Form
 
-## Setup
+## Mac Setup
 ```bash
 git clone https://github.com/ChickChickk/Simple-Demosite-Automation-Testing.git
 cd Simple-Demosite-Automation-Testing
