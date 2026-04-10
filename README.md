@@ -6,11 +6,11 @@ It fills out the form, uploads a file, submits it, and verifies successful submi
 
 ## Features
 - Text field automation
-- Radio button selection
+- Button selection
 - Date picker handling
 - Subject input selection
 - Checkbox selection
-- File upload
+- File upload (image)
 - State and city dropdown selection
 - Form submission
 - Success modal validation
