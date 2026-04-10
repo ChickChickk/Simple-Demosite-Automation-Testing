@@ -20,14 +20,6 @@ It fills out the form, uploads a file, submits it, and verifies successful submi
 - Selenium
 - Pytest
 
-## Project Structure
-.
-├── test.py
-├── demo.png
-├── requirements.txt
-├── .env
-└── README.md
-
 ## Requirements
 - Python 3.10+
 - Google Chrome
