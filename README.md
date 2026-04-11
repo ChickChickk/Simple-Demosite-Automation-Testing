@@ -17,6 +17,17 @@ It fills out the form, uploads a file, submits it, and verifies successful submi
 - Form submission
 - Success modal validation
 
+## Test Process
+
+Open https://demoqa.com/automation-practice-form --> Fill out the forms --> Submit --> Close and Refresh
+
+## Important Information
+
+To know the name of each element, we will need to Inspect the name one by one and search for the ID.
+
+Example:
+<img width="1439" height="731" alt="example" src="https://github.com/user-attachments/assets/bab62388-f6bf-4d1f-bfe4-2126eae8d2a8" />
+
 ## Tech Stack
 - Python
 - Selenium
